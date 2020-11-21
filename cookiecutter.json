@@ -1,0 +1,8 @@
+{
+    "package_name": "Name",
+    "package_title": "Title",
+    "_copy_without_render": [
+        "docs/_templates"
+    ]
+}
+
